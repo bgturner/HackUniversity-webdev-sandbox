@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
 		"start": "babel-node index.js",
-		"fizzbuzz": "babel-node ./exercises/fizzbuzz.js"
+		"fizzbuzz": "babel-node ./exercises/fizzbuzz.js",
+		"loops": "babel-node ./exercises/loops.js"
   },
   "author": "Benjamin Turner",
   "license": "ISC",
