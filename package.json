@@ -4,7 +4,8 @@
   "description": "Sandbox for working with node / es6",
   "main": "index.js",
   "scripts": {
-		"start": "babel-node index.js"
+		"start": "babel-node index.js",
+		"fizzbuzz": "babel-node ./exercises/fizzbuzz.js"
   },
   "author": "Benjamin Turner",
   "license": "ISC",
