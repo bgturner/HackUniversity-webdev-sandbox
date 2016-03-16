@@ -8,7 +8,8 @@
 		"fizzbuzz": "babel-node ./exercises/fizzbuzz.js",
 		"loops": "babel-node ./exercises/loops.js",
 		"generators": "babel-node ./exercises/generators.js",
-		"someClass": "babel-node ./exercises/someClass.js"
+		"someClass": "babel-node ./exercises/someClass.js",
+		"arrowFunctions": "babel-node ./exercises/arrow-functions.js"
   },
   "author": "Benjamin Turner",
   "license": "ISC",
